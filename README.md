@@ -1,4 +1,4 @@
-# Comment Keyboard
+# DouYin Comment Keyboard
 
 一款适用于 Flutter 的**评论/聊天输入键盘组件**，支持系统键盘与自定义表情面板切换、多图选择、@ 插入，带蒙版收起与高度记忆，适配 iOS / Android，可直接嵌入评论页、详情页等任意界面。
 
